@@ -1,22 +1,22 @@
 
 {
-	"name": "WhatsAppBot-MD",
+	"name": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢",
 	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
-	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
+	"repository": "https://github.com/aftab2683/WhatsAppBot-MD",
+	"website": "https://youtube.com/@aftabofficial274",
+	"logo": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg",
 	"keywords": ["multi-device","WhatsApp Bot"],
     	"stack": "container",
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
-            "required": false,
-            "value": "0,447405935255"
+            "required": true,
+            "value": "0,923015326254"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
-            "required": true,
-            "value": "private"
+            "required": false,
+            "value": "public"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
@@ -36,17 +36,17 @@
 	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+            "value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢,03015326254"
         }, 
     "URLBUTTON1": {
             "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
             "required": false,
-            "value": "nill,nill"
+            "value": "Facebook,https://www.facebook.com/profile.php?id=100088202634606&mibextid=ZbWKwL"
         },
     "URLBUTTON2": {
             "description": "Second URL Button Name and link (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "nill,nill"
+            "value": "YouTube,https://youtube.com/@aftabofficial274"
         },
     "REPLY_TEXT_LINK": {
             "description": "Adplay Text",
@@ -56,12 +56,12 @@
     "PROFILE_IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg"
         },
     "URL_IMAGE": {
             "description": "Image For The Adplay (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg"
         },
     "GREETING": {
             "description": "Greeting Message (leave it if you Wish to use the default)",
@@ -71,7 +71,7 @@
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false,
-            "value": "0,447405935255"
+            "value": "0,923015326254"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -81,12 +81,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -96,32 +96,32 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "ak1873924@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/@aftabofficial274"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/aftab2683/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://youtube.com/@aftabofficial274"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
         },
     "HEROKU_APP_NAME": {
             "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
@@ -157,7 +157,7 @@
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg"
         },
     "LITE_MODE": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
@@ -167,7 +167,7 @@
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ"
+            "value": "ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ URDU"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
